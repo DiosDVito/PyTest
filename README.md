@@ -31,9 +31,9 @@ La función `area_triangulo(base, altura)` implementa el cálculo del área de u
 
 Las pruebas automatizadas validan:
 
-1. El resultado correcto cuando la base es 5 y la altura es 7
-2. Que no se acepten valores negativos para la base ni para la altura
-3. Que la base no pueda ser cero
+1. Prueba 1: Validar el resultado cuando la base sea 5 y la altura sea 7 (resultado esperado: 17.5)
+2. Prueba 2: Validar que no se acepten valores negativos para la base ni para la altura
+3. Prueba 3: Validar que la base no sea cero
 
 ### Ejecutar pruebas localmente
 
